@@ -1,0 +1,4 @@
+# Keep passwords and generated files off GitHub
+config.ini
+reports/
+__pycache__/
